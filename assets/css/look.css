@@ -1,0 +1,38 @@
+body{background-image: url(http://www.robuckhomes.com/wp-content/uploads/2017/11/iStock-480277284.jpg); background-repeat: no-repeat; background-size:cover; margin: 0%;}
+.transbackone {
+    border-style: solid;
+    background-color: lightgoldenrodyellow;
+    opacity: 0.85
+}
+
+.basic {
+    font-weight: bold;
+}
+
+#me {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 35%;
+}
+
+.name {
+    text-align: center
+}
+#logo{ 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.about {
+    border-style: solid;
+    background-color: whitesmoke;
+    /* opacity: 0.85 */
+}
+
+/* .project {
+    border-style: solid;
+    background-color: lightcyan;
+    opacity: 0.8
+} */
