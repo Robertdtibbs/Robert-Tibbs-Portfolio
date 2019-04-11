@@ -2,7 +2,7 @@ body{background-image: url(http://www.robuckhomes.com/wp-content/uploads/2017/11
 .transbackone {
     border-style: solid;
     background-color: lightgoldenrodyellow;
-    opacity: 0.85
+    opacity: 0.80
 }
 
 .info{
@@ -56,7 +56,11 @@ body{background-image: url(http://www.robuckhomes.com/wp-content/uploads/2017/11
 }
 
 h2{
-    background-color: plum;
+    background-color: darkgray;
+    opacity: 0.95;
+}
+h3{
+    background-color: darkgray;
     opacity: 0.95;
 }
 /* h4{
