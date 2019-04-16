@@ -63,7 +63,15 @@ h3{
     background-color: darkgray;
     opacity: 0.95;
 }
-/* h4{
-    background-color: plum;
-    opacity: 0.95;
-} */
+
+.carousel-control-prev-icon{
+    background-color: darkgray
+}
+
+.carousel-control-next-icon{
+    background-color:darkgray
+}
+
+.sr-only{
+    color: black;
+}
